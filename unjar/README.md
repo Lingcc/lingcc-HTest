@@ -6,6 +6,7 @@ Unjar Performance Test
 1. compile using javac
 
     $mkdir perfunjarfs
+
     $javac -classpath ${HAOOP_HOME}/hadoop-core-1.0.4.jar -d perfunjarfs  PerfunJarFS.java
 
 
